@@ -4,7 +4,7 @@
 
 2. Go to your Desktop;
 
-3. Clone the source code on your htdocs folder;
+3. Clone the source code on your desktop folder;
 
 ```bash
 $ git clone git@github.com:Irikaa/Todolist.git
